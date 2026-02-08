@@ -1,0 +1,40 @@
+
+
+
+body h1{
+    font-family:'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    margin:69px auto 24px ;
+}
+body{
+    background-color:gray;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color:wheat;
+    font-size: 30px;
+    margin: 0 0 0  20px ;
+}
+
+a{
+    font-family: "poppins",sans-serif;
+    font-size: 24px;
+    color:#faf7f7;
+    text-decoration: none;
+    background-color: #9747ff;
+    width: 340px ;
+    height: 66px ; 
+    display: block;
+    text-align: center;
+    line-height: 66px ;
+    border-radius: 36px ;
+    margin:40px 0 0 0;
+    
+
+}
+a:hover{
+    background-color: #8233E8;
+}
