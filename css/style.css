@@ -3,13 +3,13 @@
 
 body h1{
     font-family:'Times New Roman', Times, serif;
-    color: aliceblue;
+    color: rgb(242, 248, 244);
     font-size: 50px;
     text-align: center;
     margin:69px auto 24px ;
 }
 body{
-    background-color:gray;
+    background-color:rgb(10, 59, 196);
 }
 
 p{
