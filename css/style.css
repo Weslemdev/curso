@@ -9,14 +9,21 @@ body h1{
     margin:69px auto 24px ;
 }
 body{
-    background-color:rgb(10, 59, 196);
+    background-color:rgb(60, 62, 68);
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    color:wheat;
-    font-size: 30px;
-    margin: 0 0 0  20px ;
+    color:rgb(218, 216, 213);
+    font-size: 40px;
+    margin: 0 0 0 370px;
+}
+span{
+
+font-family: 'Times New Roman', Times, serif;
+    color:rgb(218, 216, 213);
+    font-size: 40px;
+    margin: 0 0 0 400px;
 }
 
 a{
@@ -25,16 +32,16 @@ a{
     color:#faf7f7;
     text-decoration: none;
     background-color: #9747ff;
-    width: 340px ;
-    height: 66px ; 
+    width: 400px ;
+    height: 60px ; 
     display: block;
     text-align: center;
     line-height: 66px ;
     border-radius: 36px ;
-    margin:40px 0 0 0;
+    margin:40px 0 0 420px;
     
 
 }
 a:hover{
-    background-color: #8233E8;
+    background-color: #6b4aa8;
 }
